@@ -1,1 +1,3 @@
-## React Projects Starter APP
+## Idea
+
+https://www.uidesigndaily.com/
